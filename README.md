@@ -1,2 +1,3 @@
-# daily-weather-data-analysis-project
-weather data analsis model
+# Slash-Marks-Basic-Projects
+My Slash mark 
+projects 
